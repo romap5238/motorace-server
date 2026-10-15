@@ -1,4 +1,6 @@
 INSERT INTO players (password, name, coins, speed_level) VALUES
+('romp2015', 'romap2015', 0, 1),
+('viktop2280', 'витя', 0, 1),
 ('moto0003', 'Игрок3', 0, 1),
 ('moto0004', 'Игрок4', 0, 1),
 ('moto0005', 'Игрок5', 0, 1),
